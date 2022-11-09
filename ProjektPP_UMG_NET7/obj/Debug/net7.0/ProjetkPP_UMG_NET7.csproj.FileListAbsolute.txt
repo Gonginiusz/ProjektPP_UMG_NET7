@@ -1,0 +1,15 @@
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.csproj.AssemblyReference.cache
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.AssemblyInfoInputs.cache
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.AssemblyInfo.cs
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\bin\Debug\net7.0\ProjetkPP_UMG_NET7.exe
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\bin\Debug\net7.0\ProjetkPP_UMG_NET7.deps.json
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\bin\Debug\net7.0\ProjetkPP_UMG_NET7.runtimeconfig.json
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\bin\Debug\net7.0\ProjetkPP_UMG_NET7.dll
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\bin\Debug\net7.0\ProjetkPP_UMG_NET7.pdb
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.dll
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\refint\ProjetkPP_UMG_NET7.dll
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.pdb
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ProjetkPP_UMG_NET7.genruntimeconfig.cache
+C:\Users\Piotr Knasiak\source\repos\ProjetkPP_UMG_NET7\obj\Debug\net7.0\ref\ProjetkPP_UMG_NET7.dll
